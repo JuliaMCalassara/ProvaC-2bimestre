@@ -1,0 +1,9 @@
+Exercício 5: A saída será: 
+1
+2
+3
+4
+5
+
+Exercício 6: A saída será:
+Maior que 3.
